@@ -16,4 +16,6 @@ endmodule
 //git is free software.
 //git is a distributed version control system.
 //compare to LICENSE.
-//git track changes.
+//git track changes of files.
+//git diff add only.
+//git change and no add.
