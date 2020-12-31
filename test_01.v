@@ -13,3 +13,4 @@ endmodule
 //change the test_01.v after checkout.
 //add one line and do not use the checkout.
 //about command: commit -m "".
+//git is free software.
