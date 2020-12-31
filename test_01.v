@@ -19,3 +19,5 @@ endmodule
 //git track changes of files.
 //git diff add only.
 //git change and no add.
+//add but don't commit.
+//add and commit.
