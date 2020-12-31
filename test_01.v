@@ -15,3 +15,4 @@ endmodule
 //about command: commit -m "".
 //git is free software.
 //git is a distributed version control system.
+//compare to LICENSE.
