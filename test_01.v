@@ -21,3 +21,4 @@ endmodule
 //git change and no add.
 //add but don't commit.
 //add and commit.
+//test for delete file.
